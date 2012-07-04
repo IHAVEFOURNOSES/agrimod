@@ -13,18 +13,18 @@ This series of interrelated mods attempts to add a much greater depth to the gam
 
 Things added:
 
- agrimod_bamboo
+agrimod_bamboo
  - bamboo, grows
  
- agrimod_bunchgrass
+agrimod_bunchgrass
  - fescue, grows
  
- agrimod_cereal
+agrimod_cereal
  - wheat, grows
  
- agrimod_stone
+agrimod_stone
  - 26 different kinds of stone
  - turn those into primitive stone tools
  
- agrimod_textiles
+agrimod_textiles
  - turn plant material into plant fibers, then into string
