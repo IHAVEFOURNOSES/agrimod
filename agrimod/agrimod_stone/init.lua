@@ -81,6 +81,86 @@ minetest.register_craftitem("agrimod_stone:conglomerate_stone", {
 	description = "Conglomerate Stone",
 	inventory_image = "stone_conglomerate.png",
 })
+minetest.register_craftitem("agrimod_stone:dacite_stone", {
+	description = "Dacite Stone",
+	inventory_image = "stone_dacite.png",
+})
+minetest.register_craftitem("agrimod_stone:diorite_stone", {
+	description = "Diorite Stone",
+	inventory_image = "stone_diorite.png",
+})
+minetest.register_craftitem("agrimod_stone:dolomite_stone", {
+	description = "Dolomite Stone",
+	inventory_image = "stone_dolomite.png",
+})
+minetest.register_craftitem("agrimod_stone:gabbro_stone", {
+	description = "Gabbro Stone",
+	inventory_image = "stone_gabbro.png",
+})
+minetest.register_craftitem("agrimod_stone:gneiss_stone", {
+	description = "Gneiss Stone",
+	inventory_image = "stone_gneiss.png",
+})
+minetest.register_craftitem("agrimod_stone:granite_gray_stone", {
+	description = "Gray Granite Stone",
+	inventory_image = "stone_granite_gray.png",
+})
+minetest.register_craftitem("agrimod_stone:granite_pink_stone", {
+	description = "Pink Granite Stone",
+	inventory_image = "stone_granite_pink.png",
+})
+minetest.register_craftitem("agrimod_stone:halite_stone", {
+	description = "Halite Stone",
+	inventory_image = "stone_halite.png",
+})
+minetest.register_craftitem("agrimod_stone:limestone_stone", {
+	description = "Limestone Stone",
+	inventory_image = "stone_limestone.png",
+})
+minetest.register_craftitem("agrimod_stone:magnetite_stone", {
+	description = "Magnetite Stone",
+	inventory_image = "stone_magnetite.png",
+})
+minetest.register_craftitem("agrimod_stone:marble_stone", {
+	description = "Marble Stone",
+	inventory_image = "stone_marble.png",
+})
+minetest.register_craftitem("agrimod_stone:mudstone_stone", {
+	description = "Mudstone Stone",
+	inventory_image = "stone_mudstone.png",
+})
+minetest.register_craftitem("agrimod_stone:phyllite_stone", {
+	description = "Phyllite Stone",
+	inventory_image = "stone_phyllite.png",
+})
+minetest.register_craftitem("agrimod_stone:quartzite_stone", {
+	description = "Quartzite Stone",
+	inventory_image = "stone_quartzite.png",
+})
+minetest.register_craftitem("agrimod_stone:rhyolite_stone", {
+	description = "Rhyolite Stone",
+	inventory_image = "stone_rhyolite.png",
+})
+minetest.register_craftitem("agrimod_stone:sandstone_stone", {
+	description = "Sandstone Stone",
+	inventory_image = "stone_sandstone.png",
+})
+minetest.register_craftitem("agrimod_stone:schist_stone", {
+	description = "Schist Stone",
+	inventory_image = "stone_schist.png",
+})
+minetest.register_craftitem("agrimod_stone:shale_stone", {
+	description = "Shale Stone",
+	inventory_image = "stone_shale.png",
+})
+minetest.register_craftitem("agrimod_stone:siltstone_stone", {
+	description = "Siltstone Stone",
+	inventory_image = "stone_siltstone.png",
+})
+minetest.register_craftitem("agrimod_stone:slate_stone", {
+	description = "Slate Stone",
+	inventory_image = "stone_slate.png",
+})
 
 minetest.register_node("agrimod_stone:andesite", {
 	description = "Andesite",
