@@ -1,8 +1,10 @@
 agrimod
 
 code license: LGPLv2/later
-texture license: CC BY-SA
 
+For all included textures
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)                                 
+http://creativecommons.org/licenses/by-sa/3.0/
 
 
 Original inspiration by Terrafirmacraft, and the things that inspired it (Dwarf Fortress, etc.), and so on.
@@ -30,34 +32,31 @@ agrimod_textiles
  - turn plant material into plant fibers, then into string
 
 
-STONE TIERS
-1: chert
-2: andesite, basalt
-3: claystone, conglomerate, 
-4: chalk
 
-andesite 5-6
-basalt 5-6
+STONE, in order from weakest to strongest:
+halite
 chalk
-chert
 claystone
 conglomerate
-dacite
-diorite
-dolomite
-gabbro >5.5
-gneiss 6-7
-granite >5.5
-halite 2
-limestone 3-4
-magnetite
-marble 3
-mudstone <<5
-phyllite
-quartzite
-rhyolite 6-6.5
-sandstone
-schist
-shale <5
+mudstone
 siltstone
 slate
+limestone
+dolomite
+marble
+phyllite
+shale
+sandstone
+andesite
+basalt
+magnetite
+dacite
+schist
+gabbro
+gneiss
+granite_gray
+granite_pink
+rhyolite
+chert
+diorite
+quartzite
