@@ -380,3 +380,103 @@ minetest.register_craft({output = '"agrimod_stone:conglomerate_stone_tool" 1',
 		{'agrimod_stone:conglomerate_stone','agrimod_stone:conglomerate_stone'},
 	}
 })
+minetest.register_craft({output = '"agrimod_stone:dacite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:dacite_stone','agrimod_stone:dacite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:diorite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:diorite_stone','agrimod_stone:diorite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:dolomite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:dolomite_stone','agrimod_stone:dolomite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:gabbro_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:gabbro_stone','agrimod_stone:gabbro_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:gneiss_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:gneiss_stone','agrimod_stone:gneiss_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:granite_gray_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:granite_gray_stone','agrimod_stone:granite_gray_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:granite_pink_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:granite_pink_stone','agrimod_stone:granite_pink_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:halite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:halite_stone','agrimod_stone:halite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:limestone_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:limestone_stone','agrimod_stone:limestone_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:magnetite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:magnetite_stone','agrimod_stone:magnetite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:marble_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:marble_stone','agrimod_stone:marble_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:mudstone_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:mudstone_stone','agrimod_stone:mudstone_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:phyllite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:phyllite_stone','agrimod_stone:phyllite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:quartzite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:quartzite_stone','agrimod_stone:quartzite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:rhyolite_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:rhyolite_stone','agrimod_stone:rhyolite_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:sandstone_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:sandstone_stone','agrimod_stone:sandstone_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:schist_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:schist_stone','agrimod_stone:schist_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:shale_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:shale_stone','agrimod_stone:shale_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:siltstone_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:siltstone_stone','agrimod_stone:siltstone_stone'},
+	}
+})
+minetest.register_craft({output = '"agrimod_stone:slate_stone_tool" 1',
+	recipe = {
+		{'agrimod_stone:slate_stone','agrimod_stone:slate_stone'},
+	}
+})
