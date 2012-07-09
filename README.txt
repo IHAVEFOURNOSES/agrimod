@@ -7,7 +7,7 @@ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 http://creativecommons.org/licenses/by-sa/3.0/
 
 
-Original inspiration by Terrafirmacraft, and the things that inspired it (Dwarf Fortress, etc.), and so on.
+Original inspiration from Terrafirmacraft, and the things that inspired it (Dwarf Fortress, etc.), and so on.
 
 This series of interrelated mods attempts to add a much greater depth to the gameplay.
 
